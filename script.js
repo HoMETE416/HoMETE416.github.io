@@ -1,4 +1,4 @@
-const streamers = ['vtuber_amiru','failverde','kspksp','nemesisxdfp','hennie2001','earendelxdfp','RUMI0813','shygolone','cygxdfp','iitifox','qttsix','homete416','kannazukilubee','seki_meridian','jongie','ren0809k','listeno_o','v4181'];
+const streamers = ['vtuber_amiru','failverde','kspksp','nemesisxdfp','hennie2001','earendelxdfp','shygolone','cygxdfp','iitifox','qttsix','homete416','kannazukilubee','seki_meridian','jongie','ren0809k','listeno_o','v4181','RUMI0813'];
 
 function main() {
     searchStreams();
